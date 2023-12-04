@@ -24,3 +24,5 @@ To store user information, to update products, more privacy and security, lesss 
 
 9. How might you extend the features of your application in future?
 Build a front end. Fetch from the database directly instead of using a third part api.
+
+products/1/addToCart?userID=1
